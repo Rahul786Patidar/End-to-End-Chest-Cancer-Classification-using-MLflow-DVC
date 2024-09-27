@@ -1,0 +1,6 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = https://dagshub.com/Rahul786Patidar/End-to-End-Chest-Cancer-Classification-using-MLflow-DVC.dvc
+    user = Rahul786Patidar
+    password = 7762d41035e8671f0a9f8e843fd47f90099d4f7b
